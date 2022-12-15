@@ -6,15 +6,11 @@ UX designer and Data scientist
 
 A result-driven full-time Computer Science student with over 4 years of experience in various lines of work. I have volunteered at charities run by my secondary school, which has helped me develop my patience and focus. These traits are transferable to other career paths, particularly those that involve customer service, where I have been highly praised for my ability to build strong relationships with customers. My exceptional communication skills and ability to work well under pressure have also contributed to my success in this area.
 
-* 🌍  I'm based in London
-* ✉️  You can contact me at [sitintab@gmail.com](mailto:sitintab@gmail.com)
-* 🧠  I'm learning Ux design (Google Coursera Online Course)
-* 🤝  I'm open to collaborating on Ux design, web development and research analysis projects
-
-### Skills
-
-
-<p align="left">
+*   🌍  I'm based in London
+*   ✉️  You can contact me at [sitintab@gmail.com](mailto:sitintab@gmail.com)
+*   🧠  I'm learning Ux design (Google Coursera Online Course)
+*   🤝  I'm open to collaborating on Ux design, web development and research analysis projects### Skills 
+<p align="center">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -33,7 +29,14 @@ A result-driven full-time Computer Science student with over 4 years of experien
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
 
-
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/sitintab" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/benjaminmsitinta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="center"> <a href="https://www.github.com/sitintab" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/benjaminmsitinta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<p align= "center">
+<a href="http://www.github.com/sitintab"><img src="https://github-readme-stats.vercel.app/api?username=sitintab&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sitintab's GitHub stats" /></a>
+</p>
